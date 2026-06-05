@@ -49,7 +49,7 @@ Action:
 
 Risk:
 - Testing environment instability
-
-## Sample Output
+```
+### Sample Output
 
 ![Meeting Minutes Output](screenshots/meeting-minutes-output.png)

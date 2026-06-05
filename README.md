@@ -44,12 +44,12 @@ Sprint Review Meeting
 Completed:
 - Dashboard development
 
-## Sample Output
-
-![Meeting Minutes Output](screenshots/meeting-minutes-output.png)
-
 Action:
 - Monika to schedule stakeholder review
 
 Risk:
 - Testing environment instability
+
+## Sample Output
+
+![Meeting Minutes Output](screenshots/meeting-minutes-output.png)

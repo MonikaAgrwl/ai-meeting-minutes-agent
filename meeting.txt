@@ -1,0 +1,13 @@
+Sprint Review Meeting
+
+Completed:
+- Dashboard development
+
+In Progress:
+- User testing
+
+Action:
+- Monika to schedule stakeholder review by June 15
+
+Risk:
+- Testing environment instability

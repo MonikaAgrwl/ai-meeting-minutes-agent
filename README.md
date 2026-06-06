@@ -12,7 +12,7 @@ The solution converts unstructured meeting notes into structured outputs includi
 - Next Steps
 - Follow-up Communication
 
-## Problem Statement
+## Problem Statement 
 
 Project Managers, Scrum Masters, and Program Managers spend significant time manually documenting meeting discussions, tracking actions, and communicating updates.
 

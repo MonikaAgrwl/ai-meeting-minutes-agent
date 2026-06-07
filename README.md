@@ -4,7 +4,7 @@
 
 AI-powered Meeting Minutes Agent built using Python and Llama 3.2 (via Ollama) to automate meeting documentation and action tracking.
 
-The solution converts unstructured meeting notes into structured outputs including:
+The solution converts unstructured meeting note into structured outputs including:
 
 - Executive Summary
 - Action Items

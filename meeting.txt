@@ -1,7 +1,7 @@
 Sprint Review Meeting
 
 Completed:
-- Dashboard development
+- Dashboard  development
 
 In Progress:
 - User testing
